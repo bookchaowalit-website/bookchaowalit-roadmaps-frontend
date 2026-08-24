@@ -19,6 +19,14 @@ See `README.md` for install and run instructions when present.
 - Not claimed as production-ready unless README and tests prove it.
 - Mobile smoke / emulator acceptance is separate and toolchain-dependent.
 
+## Current product truth
+
+- A static, authored learning-and-career roadmap library backed by local MDX.
+- The index exposes roadmap title, estimated time, category, difficulty,
+  progress metadata, stage count, and prerequisite count.
+- Detail routes present the authored roadmap stages and content; there is no
+  account, progress sync, live labor-market data, or personalized recommender.
+
 ## Source README excerpt
 
 ```
